@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css'
 import type { Metadata } from 'next'
 import SoundTapticProvider from '@/components/SoundTapticProvider'
 import Link from 'next/link'
